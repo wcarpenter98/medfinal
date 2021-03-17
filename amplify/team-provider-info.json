@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-medfinal-dev-171343-authRole",
+      "UnauthRoleArn": "arn:aws:iam::583388005472:role/amplify-medfinal-dev-171343-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::583388005472:role/amplify-medfinal-dev-171343-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-medfinal-dev-171343-deployment",
+      "UnauthRoleName": "amplify-medfinal-dev-171343-unauthRole",
+      "StackName": "amplify-medfinal-dev-171343",
+      "StackId": "arn:aws:cloudformation:us-east-2:583388005472:stack/amplify-medfinal-dev-171343/a9646df0-8765-11eb-8e54-02d9600aa3f6",
+      "AmplifyAppId": "d3o4ootmr2f3k2"
+    }
+  }
+}
